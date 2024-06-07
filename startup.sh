@@ -1,5 +1,6 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 
-swww-daemon &
-swww img ~/wallpapers/city.png &
+~/.config/hypr/background/swww.sh
+nm-applet --indicator &
 waybar &
+
