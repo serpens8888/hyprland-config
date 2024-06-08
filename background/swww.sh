@@ -2,4 +2,4 @@
 
 swww kill
 swww-daemon &
-swww img ~/wallpapers/22b.png &
+swww img ~/wallpapers/editedPainting.png &

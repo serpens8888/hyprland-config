@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
-~/.config/hypr/background/swww.sh
+pkill waybar
+pkill nm-applet
 nm-applet --indicator &
-
+waybar &
