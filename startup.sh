@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-~/.config/hypr/background/swww.sh
+/home/serpens/.config/hypr/swww.sh &
 nm-applet --indicator &
 
